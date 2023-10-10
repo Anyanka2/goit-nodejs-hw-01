@@ -9,9 +9,13 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anna Diachenko",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^5.0.1"
   }
 }
